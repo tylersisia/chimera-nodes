@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "name": "traaittPlatform Blockchain Cache (中国区节点)",
+      "url": "blockapi.traaittPlatform.com",
+      "port": 443,
+      "ssl": true,
+      "cache": true
+    },
+    {
+      "name": "Official US traaittPlatform Node",
+      "url": "usanodeone.traaittPlatform.com",
+      "port": 23896,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Official US traaittPlatform Node",
+      "url": "usanodetwo.traaittPlatform.com",
+      "port": 23896,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Official EU traaittPlatform Node",
+      "url": "europenodeone.traaittPlatform.com",
+      "port": 23896,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Official EU traaittPlatform Node",
+      "url": "europenodetwo.traaittPlatform.com",
+      "port": 23896,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
