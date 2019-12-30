@@ -22,6 +22,20 @@
       "cache": false
     },
     {
+      "name": "Official ASIA traaittPlatform Node",
+      "url": "asianodeone.traaittPlatform.com",
+      "port": 23896,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Official ASIA traaittPlatform Node",
+      "url": "asianodetwo.traaittPlatform.com",
+      "port": 23896,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Official EU traaittPlatform Node",
       "url": "europenodeone.traaittPlatform.com",
       "port": 23896,
