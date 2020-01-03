@@ -3,7 +3,7 @@
 require('colors')
 const assert = require('assert')
 const crypto = require('crypto')
-const data = require('../traaittplatform-nodes.json')
+const data = require('../chimera-nodes.json')
 const describe = require('mocha').describe
 const format = require('util').format
 const it = require('mocha').it
@@ -24,7 +24,7 @@ function checkTestNode (node) {
     return Promise.resolve(check)
   }
 
-  return request({ url: 'https://raw.githubusercontent.com/traaittplatform/traaittplatform-nodes-json/master/traaittplatform-nodes.json', json: true })
+  return request({ url: 'https://raw.githubusercontent.com/tylersisia/chiemra-nodes-json/master/chimera-nodes.json', json: true })
     .then(data => {
       data = data.nodes.map(x => sha256(x))
 

@@ -1,7 +1,7 @@
 'use strict'
 
 const assert = require('assert')
-const data = require('../traaittplatform-nodes.json')
+const data = require('../chiemra-nodes.json')
 
 var seenNodes = []
 

@@ -1,7 +1,7 @@
 'use strict'
 
 const assert = require('assert')
-const data = require('../traaittplatform-nodes.json')
+const data = require('../chimera-nodes.json')
 
 for (var i = 0; i < data.nodes.length; i++) {
   var node = data.nodes[i]
