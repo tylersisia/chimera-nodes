@@ -1,8 +1,8 @@
 {
-  "name": "traaittplatform-nodes-json",
+  "name": "chimera-nodes-json",
   "version": "0.0.1",
   "description": "json list of public daemons",
-  "main": "traaittplatform-nodes.json",
+  "main": "chimera-nodes.json",
   "directories": {
     "test": "tests"
   },
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/traaittplatform/traaittplatform-nodes-json.git"
+    "url": "git+https://github.com/tylersisia/chimera-nodes-json.git"
   },
   "keywords": [
-    "traaittplatform",
+    "chimera",
     "public",
     "nodes"
   ],

@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "name": "Chimera Blockchain Cache",
+      "url": "blockapi.chimeraproject.io",
+      "port": 80,
+      "ssl": false,
+      "cache": true
+    },
+    {
+      "name": "USA Seed Node",
+      "url": "us.chimeraproject.io",
+      "port": 11246,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "USA East Seed Node",
+      "url": "us-east.chimeraproject.io",
+      "port": 11246,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Europe Seed Node",
+      "url": "eu.chimeraproject.io",
+      "port": 11246,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "ASIA Seed Node",
+      "url": "asia-east.chimeraproject.io",
+      "port": 11246,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Cryptodude Seed Node",
+      "url": "cryptodude.chimeraproject.io",
+      "port": 11246,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
