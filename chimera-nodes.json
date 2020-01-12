@@ -2,7 +2,7 @@
   "nodes": [
     {
       "name": "Chimera Blockchain Cache",
-      "url": "blockapi.chimeraproject.io",
+      "url": "cache.chimeraproject.io",
       "port": 80,
       "ssl": false,
       "cache": true
