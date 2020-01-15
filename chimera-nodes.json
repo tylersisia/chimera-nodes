@@ -1,11 +1,15 @@
 {
   "nodes": [
     {
-      "name": "Chimera Blockchain Cache",
-      "url": "cache.chimeraproject.io",
-      "port": 80,
+      "name": "Tyler Node",
+      "url": "3.225.124.85",
+      "port": 11246,
       "ssl": false,
-      "cache": true
+      "cache": false,
+      "fee": {
+        "address": "TRTLuyvXNb2GANcwm6p1KYX5LCyGnhEWt4kNpNf7WsjGE5Az32Jedc1BsrgHcvpP1YHNjb5fX87e4ciez6YWvMt2hZhkGmHwNZj",
+        "amount": 1
+      },
     },
     {
       "name": "USA Seed Node",
